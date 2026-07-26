@@ -2,7 +2,7 @@
 
 **Software Engineering @ Carleton University · Quantitative Developer @ Laplace Insights**
 
-I'm a software engineering student drawn to hard, low-level problems — systems programming, performance, and building things from scratch to understand how they work all the way down. A lot of my work sits where software meets markets (matching engines, options pricing, signal research), but I'm after hard engineering problems generally.
+I'm a software engineering student drawn to hard, low-level problems: systems programming, performance, and building things from scratch to understand how they work all the way down. A lot of my work sits where software meets markets (matching engines, options pricing, signal research), but I'm after hard engineering problems generally.
 
 🎓 B.Eng. Software Engineering (2025–2029) · GPA 4.0, President's Scholarship
 
