@@ -11,15 +11,15 @@ I'm a software engineering student drawn to hard, low-level problems: systems pr
 ### Featured work
 
 **[lob-simulator](https://github.com/arnavkato/lob-simulator)** · `C++`
-A limit order book and matching engine written from scratch, with a real-time Dear ImGui front end — depth-of-market ladder, time & sales tape, and a live market depth chart, all driven by a stochastic order-flow simulator. Price–time priority matching, marketable-limit handling, and O(1) cancels via an id→iterator index.
+A limit order book and matching engine written from scratch, with a real-time Dear ImGui front end, depth-of-market ladder, time & sales tape, and a live market depth chart, all driven by a stochastic order-flow simulator. Price–time priority matching, marketable-limit handling, and O(1) cancels via an id→iterator index.
 
 ![lob-simulator depth-of-market demo](https://github.com/arnavkato/lob-simulator/raw/main/demo.gif)
 
 **[erp-equity-research](https://github.com/arnavkato/erp-equity-research)** · `Python`
-Replicated an academic entropy-risk-premium signal on US equities via a full options-based measurement stack — Barone-Adesi-Whaley de-Americanization, Carr-Madan log-contract integration, and Bakshi-Kapadia-Madan risk-neutral moments — across the Dow 30. Validated against VIX to under a vol point, with a 23-test suite and Fama-MacBeth regressions; a clean, documented null result.
+Replicated an academic entropy-risk-premium signal on US equities via a full options-based measurement stack: Barone-Adesi-Whaley de-Americanization, Carr-Madan log-contract integration, and Bakshi-Kapadia-Madan risk-neutral moments across the Dow 30. Validated against VIX to under a vol point, with a 23-test suite and Fama-MacBeth regressions; a clean, documented null result.
 
 **[options-visualizer](https://github.com/arnavkato/options-visualizer)** · `Python · Streamlit`
-An interactive multi-leg options strategy builder with Black-Scholes, Binomial Tree, and Monte Carlo pricing — vectorized to price thousands of paths in a fraction of a second — with a Plotly Greeks overlay and automatic breakeven / max-P&L detection.
+An interactive multi-leg options strategy builder with Black-Scholes, Binomial Tree, and Monte Carlo pricing vectorized to price thousands of paths in a fraction of a second with a Plotly Greeks overlay and automatic breakeven / max-P&L detection.
 
 ---
 
